@@ -67,7 +67,7 @@ MONGO_URI=your_mongo_db_connection_string
 
 1. Clone Repo : 
 
-git clone https://github.com/yourusername/quiz-app.git
+git clone https://github.com/HeetMorker/Quiz.git
 cd quiz-app/backend
 
 2.  Install dependencies:
